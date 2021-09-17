@@ -1,4 +1,4 @@
-0.0.0.0 nos.nl
-0.0.0.0 tweakers.net
-0.0.0.0 www.volkskrant.nl
-0.0.0.0 nu.nl
+0.0.0.0 ^nos.nl$
+0.0.0.0 ^tweakers.net$
+0.0.0.0 ^volkskrant.nl$
+0.0.0.0 ^nu.nl$
