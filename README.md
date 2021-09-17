@@ -1,2 +1,2 @@
-# blokada-distraction-filter
-Filter written in Blokade filter syntax for filtering distracting websites
+# distraction-filter
+Filter written in host file filter syntax for filtering distracting websites
