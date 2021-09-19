@@ -1,0 +1,12 @@
+[Adblock Plus 2.0]
+! Version:
+! Title:
+! Last modified:
+! Expires: 4 days (update frequency)
+! Homepage:
+!
+||nos.nl^
+||nu.nl^
+||tweakers.net^
+||volkskrant.nl^
+||linkedin.com^
