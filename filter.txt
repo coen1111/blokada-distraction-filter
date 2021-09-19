@@ -10,3 +10,4 @@
 ||tweakers.net^
 ||volkskrant.nl^
 ||linkedin.com^
+||licdn.com^
