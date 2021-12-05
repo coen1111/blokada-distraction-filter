@@ -11,3 +11,5 @@
 ||volkskrant.nl^
 ||linkedin.com^
 ||licdn.com^
+||rtlnieuws.nl^
+||noordhollandsdagblad.nl^
