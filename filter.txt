@@ -5,11 +5,14 @@
 ! Expires: 4 days (update frequency)
 ! Homepage:
 !
-||nos.nl^
-||nu.nl^
-||tweakers.net^
-||volkskrant.nl^
+||formule1.nl^
 ||linkedin.com^
 ||licdn.com^
-||rtlnieuws.nl^
+||meesman.nl^
 ||noordhollandsdagblad.nl^
+||nos.nl^
+||nu.nl^
+||omroepbrabant.nl^
+||rtlnieuws.nl^
+||tweakers.net^
+||volkskrant.nl^
